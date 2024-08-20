@@ -11,7 +11,7 @@ I did the main page while my collegue did the rest.
 # Choose Your Seat
 ![image](https://github.com/user-attachments/assets/00706927-c2b6-4b2c-8810-b7701dc2d6ac)
 
-#Payment Page
+# Payment Page
 ![image](https://github.com/user-attachments/assets/1d516753-5031-434e-9b97-d0fa4fde24d2)
 
 
