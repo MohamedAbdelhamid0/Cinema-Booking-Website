@@ -15,5 +15,6 @@ I did the main page while my collegue did the rest.
 ![image](https://github.com/user-attachments/assets/1d516753-5031-434e-9b97-d0fa4fde24d2)
 
 
+*.html linguist-detectable=true
 
 
